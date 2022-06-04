@@ -1,0 +1,9 @@
+#center {
+    text-align: center;
+}
+
+#styledImage {
+    border-width: 10px;
+    border-color: black;
+    border-style: dotted;
+}
